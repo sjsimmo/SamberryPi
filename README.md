@@ -1,3 +1,3 @@
 # SamberryPi
 
-Just playing with Raspberry Pi for fun and learningz.
+Just playing with Raspberry Pi for funz and learningz.
